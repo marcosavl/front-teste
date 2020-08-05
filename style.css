@@ -1,0 +1,242 @@
+body {
+    margin:0;
+    box-sizing:border-box;
+}
+/* CABEÇALHO TOPO */
+.header-1 {
+    width:1366px;
+    height:25px;
+    background-color:#EEEEEE;
+}
+/* CABEÇALHO ELEMENTOS INTERNOS */
+.header-1-interno {
+    width:1127px;
+    height:25px;
+    margin:0 auto;
+}
+/* IMAGEM LOGO VOLTAR PARA A HOME */
+.imagem-portal-honda {
+    top: 4px;
+    left: 114px;
+    width: 20px;
+    height: 17px;
+    margin-top:1px;
+    margin-bottom:3.85px;
+    display:inline-block;
+}
+/* PROPRIEDADES TEXTO DO CABEÇALHO */
+p {
+    float:left;
+    margin:0;
+    margin-top:4px;
+    margin-bottom:1.15px;
+    color:#707070;
+    margin-left:9.82px;
+    opacity: 1;
+    font-family: 'Roboto', sans-serif;
+    font-size:12px;
+}
+/* ELEMENTOS EM RIGHT */
+.header-1-right {
+    width:345px;
+    height:25px;
+    float:right;
+    margin-right: 120px;
+}
+.imagem-localizacao {
+    top: 4px;
+    margin-top:3px;
+    margin-bottom:3.85px;
+    display:inline-block;
+}
+.imagem-fale-conosco {
+    top: 4px;
+    margin-top:4px;
+    margin-left:26px;
+    margin-bottom:3.85px;
+    display:inline-block;
+}
+.elemento-flutuante {
+    height: 50px;
+    top: 165px; /* altura que vai parar antes do topo */
+    position: sticky;
+    float:right;
+}
+/* INÍCIO CABEÇALHO 2 */
+.header-2 {
+    width:1366px;
+    height:90px;
+}
+.header-2-interno {
+    width:1127px;
+    height:90px;
+    margin:0 auto;
+}
+.imagem-logo-honda {
+    margin-top:18px;
+}
+.imagem-logo-central-de-atendimento {
+    float:right;
+    margin-top:17px;
+    margin-right: -66px;
+}
+/* BANNER HONDA */
+.banner-honda {
+    width:1366px;
+    height:400px;
+    top: 60px;
+}
+.teste1 {
+    overflow: hidden;
+}
+.teste2 {
+    top: 358px;
+    left: 115px;
+    width: 130px;
+    height: 130px;
+    position: absolute;
+}
+.body {
+    width:100%;
+    height:2005px;
+}
+.body-elemento-texto {
+    width: 893px;
+    height:574px;
+    margin-left:91px;
+    margin-top:31px;
+}
+.body-elemento-imagens {
+    top: 732px;
+    left: 98px;
+    width: 165px;
+    height: 96px;
+    margin-top:30px;
+}
+.veiculo {
+    border:1px solid #D6D6D6;
+    margin-top:5px;
+}
+.veiculo-lateral {
+    top: 688px;
+    left: 305px;
+    width: 680px;
+    height: 212px;
+    position: absolute;
+}
+.elemento-texto img {
+    top: 973px;
+    left: 95px;
+    width: 870px;
+    height: 63px;
+    margin-top:35px;
+}
+.modelos-honda {
+    top: ‭2026‬px;
+    margin-left: 95px;
+    width: 495px;
+    height: 75px;
+    padding-top:70px;
+    padding-bottom: 34px;
+}
+.carrossel-veiculos {
+    width:914px;
+    height: 416px;
+    margin-left:95px;
+}
+.carrossel-veiculos img {
+    top: 2066px;
+    width: 211px;
+    height: 179px;
+    left:300px;
+    display:inline-block;
+    margin-top:15px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+.honda-accord, .honda-city, .honda-fit {
+    top: 2062px;
+    width: 270px;
+    height: 350px;
+    border:1px solid #D6D6D6;
+    display:inline-block;
+    margin-right: 30px;
+}
+.texto-honda-accord, .texto-honda-city, .texto-honda-fit{
+    width: 244px;
+    height: 79px;
+    text-align: center;
+    font-size:14px;
+    margin-top: 5px;
+    line-height: 18px;
+}
+.conheca-mais {
+    width: 230px;
+    height: 30px;
+    background-color: #FFF;
+    top: 300px;
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid #D5D5D5;
+}
+p.conheca-mais-texto {
+    font-size: 14px;
+    width: 177px;
+    margin-top: -76px;
+    align-items: center;
+    padding-left: 48px;
+    font-family: 'Roboto', sans-serif;
+}
+.redes-sociais {
+    width:1366px;
+    height: 240px;
+    background-color:#EEEEEE;
+}
+.redes-sociais img {
+    margin-top:19px;
+    margin-left:17px;
+    margin-right:17px;
+}
+.redes-sociais-internas {
+    width:612px;
+    height:100%;
+    margin:0 auto;
+}
+.teste {
+    width:378px;
+    height:29px;
+    margin:0 auto;
+    margin-top:17px;
+}
+.teste img {
+    margin:0 auto;
+}
+img.logos-grupo {
+    margin-top: 25px;
+    margin-left: 112px;
+}
+.footer-final {
+    width:100%;
+    height:83px;
+}
+.footer-final-elementos-1 {
+    width:50%;
+    height:83px;
+    float:left;
+}
+.footer-final-elementos-1 img {
+    float:right;
+    margin-right: 134px;
+    margin-top:27.7px;
+}
+.footer-final-elementos-2 img {
+    float:left;
+    margin-left: 134px;
+    margin-top:27.7px;
+}
+.footer-final-elementos-2 {
+    width:50%;
+    height:83px;
+    float:right;
+}
